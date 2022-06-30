@@ -1,0 +1,19 @@
+{
+  "name": "simplehtmlapplication",
+  "version": "1.0.0",
+  "description": "simple html and some css and js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannushchenko/simplehtmlapplication.git"
+  },
+  "author": "Hannushchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannushchenko/simplehtmlapplication/issues"
+  },
+  "homepage": "https://github.com/hannushchenko/simplehtmlapplication#readme"
+}
