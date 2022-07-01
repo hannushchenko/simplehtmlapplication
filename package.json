@@ -2,10 +2,10 @@
   "name": "simplehtmlapplication",
   "version": "1.0.0",
   "description": "simple html and some css and js",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/hannushchenko/simplehtmlapplication/issues"
   },
-  "homepage": "https://github.com/hannushchenko/simplehtmlapplication#readme",
+  "homepage": "https://github.com/hannushchenko/simplehtmlapplication",
   "dependencies": {
     "express": "^4.18.1",
     "serve": "^13.0.2"
